@@ -1,0 +1,7 @@
+env/
+test/
+result/
+__pycache__/
+
+
+logs.txt
